@@ -32,4 +32,16 @@ understanding the training data
 
 shiii goes onnnnnn 
 
+##Structure
+
+A question
+A multi-document abstractive summary
+A multi-document extractive summary
+Multiple single-document answers, each containing:
+Abstractive summary
+Extractive summary
+Detailed section
+Full article text
+Source URL
+Quality rating
 
