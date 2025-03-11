@@ -35,13 +35,13 @@ shiii goes onnnnnn
 ##Structure
 
 A question
-A multi-document abstractive summary
-A multi-document extractive summary
-Multiple single-document answers, each containing:
-Abstractive summary
-Extractive summary
-Detailed section
-Full article text
-Source URL
-Quality rating
+A multi-document abstractive summary </br>
+A multi-document extractive summary </br>
+Multiple single-document answers, each containing:</br>
+Abstractive summary</br>
+Extractive summary</br>
+Detailed section</br>
+Full article text</br>
+Source URL</br>
+Quality rating</br>
 
